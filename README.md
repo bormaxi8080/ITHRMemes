@@ -1,7 +1,7 @@
-# RussianITMemes
-Russian IT Memes Collection
+# ITHRMemes
+IT & HR Memes Collection
 
-![alt text](rim.jpeg "Russian IT Memes")
+![alt text](cover.jpeg "IT & HR Memes")
 
 В данном репозитарии собрана коллекция мемов про IT и HR, которые я регулярно публиковал в своем предыдущем заблокированном LinkedIn (https://www.linkedin.com/in/i-maxi/), а теперь в новом: https://www.linkedin.com/in/maxim-marshak/
 
